@@ -1,0 +1,10 @@
+# Campos sexo: Mujer, Hombre, Intersexual
+# Campos genero: Femenino, Masculino, No binario
+# Campos orientacion_sexual: Heterosexual, Homosexua, Bisexual
+# Campo tipo de identificacion: Cédula de ciudadanía, Pasaporte, Cédula de extranjería
+# Campos departamento: Cesar, Huila, Caldas, Meta
+# Campos municipio dependiendo de departamento: Cesar(Astrea,La Gloria,Pelaya), Huila(Isnos,La Plata), Caldas(La Dorada,Neira), Meta(Cubarral,Guamal,Granada)
+# Zona domicilio: Urbano, Rural
+# personal cargo: numero del 1 - 10
+# discapacidad: Visual, Intelectual, Auditiva
+primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,sexo,numero_identificacion,departamento_domicilio,municipio_domicilio,zona_domicilio,numero_via,numero_uno,letra,numero_dos,barrio_sector,celular_uno,correo,genero,orientacion_sexual,personas_cargo,discapacidad,nombre_tercero,apellido_tercero,celular_uno_tercero,correo_tercero
